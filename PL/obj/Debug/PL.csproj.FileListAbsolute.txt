@@ -1,0 +1,13 @@
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\PL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\PL.pdb
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\AutoMapper.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\BLL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\DAL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\EntityFramework.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\BLL.pdb
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\AutoMapper.xml
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\DAL.pdb
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\bin\Debug\EntityFramework.xml
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\obj\Debug\PL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\PL\obj\Debug\PL.pdb

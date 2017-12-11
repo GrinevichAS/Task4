@@ -1,0 +1,10 @@
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\DAL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\DAL.pdb
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\obj\Debug\DAL.dll
+C:\Users\Alexandr\documents\visual studio 2015\Projects\Task_4\DAL\obj\Debug\DAL.pdb
